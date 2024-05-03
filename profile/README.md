@@ -4,7 +4,7 @@
 
 # Ports
 
-* Super Mario Galaxy 3DS (Demo) - WORK IN PROGRESS
+* Super Mario Galaxy 3DS (Demo) - Change of plans
 * Baldi's Basics In Education & Learning 3DS - WORK IN PROGRESS
 * Kindergarten 3DS - NOT STARTED
 
