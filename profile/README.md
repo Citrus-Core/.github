@@ -2,10 +2,10 @@
 
 * The team that does it all (trust)
 
-# Ports
+# 3DS Ports
 
 * Super Mario Galaxy 3DS (Demo) - Change of plans
-* Baldi's Basics In Education & Learning 3DS - WORK IN PROGRESS
+* Baldi's Basics In Education & Learning 3DS - ON HOLD
 * Kindergarten 3DS - NOT STARTED
 
 # Team Members
