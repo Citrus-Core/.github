@@ -13,5 +13,5 @@
 
 # Team Members
 
-* [Ty - Founder](https://twitter.com/tydotcs) (so cools)
+* [koi - Founder](https://twitter.com/maybekoi_) (so cools)
 * [Spanish Freddy - Secondary Founder](https://twitter.com/Spanish_Freddy) (woa bes frien!)
